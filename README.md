@@ -55,6 +55,7 @@
 | [Leaner Technologies](https://leaner.co.jp/) | Leaner見積など | [here](https://zenn.dev/leaner_tech/articles/20211119-paternity_leave) | [あり](https://leaner.co.jp/210913/) |
 |[BASE株式会社](https://binc.jp/)|ネットショップ開設実績4年連続No.1のEコマースプラットフォーム「BASE」、オンライン決済サービス「PAY.JP」、ID決済サービス「PAY ID」 を企画・開発・運営|[here](https://devblog.thebase.in/entry/2019/12/01/090000)||
 |[株式会社コドモン](https://www.codmon.co.jp/)|こども施設向けICTシステム「コドモン」、保育者採用支援サービス「ホイシル」など|[here](https://newscast.jp/news/4351656)||
+|[ユニファ株式会社](https://unifa-e.com/)|最新テクノロジーを活用した保育関連サービス「ルクミー」や「スマート」保育園を展開。|[here](https://www.wantedly.com/companies/unifa-e/post_articles/343068)||
 
 ## Contributing
 
